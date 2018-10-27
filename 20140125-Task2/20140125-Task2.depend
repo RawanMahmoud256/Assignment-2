@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1540630981 source:e:\fci\+1 term\oop\assignment 2\20140125-task2\main.cpp
+	<iostream>
+	"Person.h"
+	"Vehicle.h"
+	"Truck.h"
+
+1540562329 e:\fci\+1 term\oop\assignment 2\20140125-task2\person.h
+	<iostream>
+
+1540627719 e:\fci\+1 term\oop\assignment 2\20140125-task2\vehicle.h
+	<iostream>
+	"Person.h"
+
+1540627713 e:\fci\+1 term\oop\assignment 2\20140125-task2\truck.h
+	"Vehicle.h"
+	<iostream>
+
+1540629706 source:e:\fci\+1 term\oop\assignment 2\20140125-task2\person.cpp
+	"Person.h"
+	<iostream>
+
+1540629644 source:e:\fci\+1 term\oop\assignment 2\20140125-task2\truck.cpp
+	"Truck.h"
+	<iostream>
+
+1540629642 source:e:\fci\+1 term\oop\assignment 2\20140125-task2\vehicle.cpp
+	"Vehicle.h"
+	<iostream>
+
